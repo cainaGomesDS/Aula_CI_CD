@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "exercicio-teste-unitarios",
-    "slug": "exercicio-teste-unitarios",
+     "name": "exercicio-teste-unitarios",
+    "slug": "aulacicd",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,7 +28,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "8cf0d5fd-0d8c-46b1-8798-739093ca84d9"
+        "projectId": "201d7734-fb6a-40f8-9dd2-c468eef3c30a"
       }
     }
   }
